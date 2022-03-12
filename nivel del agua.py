@@ -7,7 +7,7 @@ if (metros < 0):
 elif (metros == 0):
     print("ENCENDER BOMBA")
 elif (metros >0 and metros <2):
-    print("ACELEREAR BOMBA DE AGUA")
+    print("ACELERAR BOMBA DE AGUA")
 elif (metros >=2 and metros <4):
     print("BOMBA TRABAJANDO")
 elif (metros >=4 and metros <6):
